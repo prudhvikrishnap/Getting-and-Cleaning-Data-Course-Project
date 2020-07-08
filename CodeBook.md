@@ -10,36 +10,36 @@ Additional information about the variables, data and transformations used in the
 Data + Description can be found here [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 ### Files used to load data
-test/subject_test.txt
-test/X_test.txt
-test/y_test.txt
-train/subject_train.txt
-train/X_train.txt
-train/y_train.txt
+1. test/subject_test.txt
+2. test/X_test.txt
+3. test/y_test.txt
+4. train/subject_train.txt
+5. train/X_train.txt
+6. train/y_train.txt
 
 ### Activity Labels
-1 WALKING
-2 WALKING_UPSTAIRS
-3 WALKING_DOWNSTAIRS
-4 SITTING
-5 STANDING
-6 LAYING
+1. WALKING
+2. WALKING_UPSTAIRS
+3. WALKING_DOWNSTAIRS
+4. SITTING
+5. STANDING
+6. LAYING
 
 ### Variables
-dataActivityTest
-dataActivityTrain
-dataSubjectTrain
-dataSubjectTest
-dataFeaturesTest
-dataFeaturesTrain
-dataSubject
-dataActivity
-dataCombine
-Data
-subdataFeaturesNames
-selectedNames
-activityLabels
-Data2
+1. dataActivityTest
+2. dataActivityTrain
+3. dataSubjectTrain
+4. dataSubjectTest
+5. dataFeaturesTest
+6. dataFeaturesTrain
+7. dataSubject
+8. dataActivity
+9. dataCombine
+10. Data
+11. subdataFeaturesNames
+12. selectedNames
+13. activityLabels
+14. Data2
 
 ### Data Set Information
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, we captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. The experiments have been video-recorded to label the data manually. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data. 
